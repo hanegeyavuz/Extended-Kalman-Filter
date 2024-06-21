@@ -33,7 +33,7 @@ This repository contains MATLAB code implementing an Extended Kalman Filter (EKF
 
 1. Clone the repository to your local machine:
    ```sh
-   git clone https://github.com/hanegeyavuz/Yildiz-Navigation-EKF-IMU.git
+   git clone https://github.com/hanegeyavuz/Extended-Kalman-Filter.git
    cd Yildiz-Navigation-EKF-IMU
 2. Open MATLAB and navigate to the project directory.
 3. Run the `main.m` script:
