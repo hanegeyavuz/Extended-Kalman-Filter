@@ -46,7 +46,7 @@ This repository contains MATLAB code implementing an Extended Kalman Filter (EKF
 - Contributions are welcome! If you have any suggestions or find any bugs, please open an Issue or submit a Pull Request.
 
 ## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the GPL License - see the `LICENSE` file for details.
 
 ## Authors
 - Emre Emir Fidan
